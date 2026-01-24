@@ -19,4 +19,10 @@ https://github.com/Aflah-Paruthicode/Apple_webPage.git
 ## Preview
 <img width="1919" height="986" alt="Screenshot 2026-01-24 160045" src="https://github.com/user-attachments/assets/b41ae645-2662-4f42-9ac7-c3348307ca53" />
 
+---
+*Developed with ❤️ by aflu*  
+---
+
+⭐ If you like this project, consider giving it a star
+
  
